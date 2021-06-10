@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ## SET UP
 
 # Imports sys library and stores the name of the input and output files
