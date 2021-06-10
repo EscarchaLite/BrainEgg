@@ -1,6 +1,6 @@
 # BrainEgg
 BrainEgg is a Python Brainfuck interpreter that translates Brainfuck programs into Python
 
-I included three test programs: helloworld.b, mandelbrot.b(credits to Erick Bosman) and tictactoe.b(credits to mitxela).
+I've tried helloworld, mandelbrot and tictactoe. If you could please try others you have, it'll be cool
 
-If you want to add any test programs or code just do a pull request. If you have any issues, please report them.
+If you want to add any code just do a pull request. If you have any issues, please report them.
